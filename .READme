@@ -1,0 +1,17 @@
+# BotsCrew Test Task
+
+# **How to run**
+1. Open your IDE and navigate to the directory where you want to clone the project.
+2. Open the command prompt from that directory and enter the following command
+   ```git clone https://github.com/Bethakzs/TestTaskNerdySoft.git```
+
+## IDE
+3. PostgreSQL is set up (with properties configured in application.yml, DB with name "university" shoud be running), and ensure port 8080 is free or change it to another.
+4. Run your application.
+
+## Test
+1. Who is head of department Computer Science
+2. Show Computer Science statistics
+3. Show the average salary for the department Computer Science
+4. Show count of employee for Computer Science
+5. Global search by ova
